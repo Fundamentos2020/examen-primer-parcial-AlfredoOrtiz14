@@ -1,0 +1,40 @@
+#barra{
+    background-color: blue;
+}
+
+#menu{
+    background-color: yellow;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+}
+
+#Ingenieria{
+
+}
+
+ul{
+    padding: 0px;
+    position: fixed;
+    top: 0px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+p{
+    text-align: justify;
+    text-indent: 50px;
+}
+
+h1{
+    text-align: center;
+}
+
+#examen{
+    text-align: center;
+}
