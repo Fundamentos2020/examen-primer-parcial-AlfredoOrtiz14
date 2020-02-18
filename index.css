@@ -1,5 +1,6 @@
 #barra{
     background-color: blue;
+    height: 150px;
 }
 
 #menu{
@@ -11,15 +12,13 @@ img{
     height: 150px;
 }
 
-#Ingenieria{
-
-}
 
 ul{
     padding: 0px;
     position: fixed;
     top: 0px;
 }
+
 
 a{
     color: black;
@@ -37,4 +36,8 @@ h1{
 
 #examen{
     text-align: center;
+}
+
+#espaciado{
+    text-indent: 80px;
 }
